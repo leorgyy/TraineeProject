@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заполните ФИО" />
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.CancelButtonButtonCaption.Value" Value="Отмена" />
+			<Item Name="Parameters.396ca312-0e7f-46d6-9ae5-aa131a639265.Caption" Value="Фамилия" />
+			<Item Name="Parameters.5add5dcd-faec-408b-9d44-363e8a7e68b7.Caption" Value="Имя" />
+			<Item Name="Parameters.61657ad8-ee1f-457c-9120-cae9c7d3fb70.Caption" Value="Отчество" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.7a981415-9f43-40e5-97cf-6c871c9a53e4.Caption" Value="Отмена" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Закрыть" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Сохранить" />
+			<Item Name="Parameters.fbedef51-b239-4506-929f-67e334e9483b.Caption" Value="ФИО" />
+		</Items>
+	</Group>
+</Resources>

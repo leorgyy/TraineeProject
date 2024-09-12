@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Заменённая деталь" />
+			<Item Name="Columns.NrbCar.Caption" Value="Автомобили" />
+			<Item Name="Columns.NrbCarDetail.Caption" Value="Деталь" />
+			<Item Name="Columns.NrbReplacementDate.Caption" Value="Дата/Время замены" />
+			<Item Name="Columns.NrbReplacementPrice.Caption" Value="Стоимость замены" />
+			<Item Name="Columns.NrbReplacementResult.Caption" Value="Результат замены" />
+			<Item Name="Columns.NrbTechMaster.Caption" Value="Технический мастер" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

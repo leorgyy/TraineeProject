@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_a26d0ee20de34151847e309cdbbc2253.Caption" Value="CheckSameAccountName" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_471835e3913846a794c20cea3fbad8bc.Caption" Value="AccountValidating" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5b5e959d07084cfea108d1d84401a35c.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_5b5e959d07084cfea108d1d84401a35c.Lanes.Lane_3dc6f988ddee49f88aa8d3322afa2d0f.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LocalizableStrings.AccountExistNameError.Value" Value="Контрагент с таким именем уже существует" />
+			<Item Name="EventsProcessSchema.Parameters.CanGenerateAnniversaryReminding.Caption" Value="CanGenerateAnniversaryReminding" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.EntityChangedColumns.Caption" Value="EntityChangedColumns" />
+			<Item Name="EventsProcessSchema.Parameters.OldParentId.Caption" Value="OldParentId" />
+			<Item Name="EventsProcessSchema.Parameters.ParentIdIsNotNull.Caption" Value="ParentIdIsNotNull" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+		</Items>
+	</Group>
+</Resources>

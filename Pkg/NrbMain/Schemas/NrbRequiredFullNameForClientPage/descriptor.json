@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "fbeeb66e-35bc-45be-b70d-42788eaa2d3a",
+    "Name": "NrbRequiredFullNameForClientPage",
+    "ModifiedOnUtc": "\/Date(1725284795000)\/",
+    "Parent": {
+      "UId": "5826ff24-46c6-4169-9223-2aaad9ec2e18",
+      "Name": "BasePageSimpleProcessTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Заполните ФИО"
+  }
+}

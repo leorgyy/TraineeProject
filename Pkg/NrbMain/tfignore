@@ -1,0 +1,12 @@
+!.tfignore
+!NrbMain/**
+
+resource.*.xml
+!resource.ru-RU.xml
+!resource.en-US.xml
+
+data.*.json
+!data.ru-RU.json
+!data.en-US.json
+
+\.vs

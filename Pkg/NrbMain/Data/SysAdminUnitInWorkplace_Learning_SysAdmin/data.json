@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "704dd818-d62c-4496-a2b8-8fe0fb4418d8"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1724152455224+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "b96bb4ca-a133-44f1-aa7d-24495d89e278",
+          "Value": "83a43ebc-f36b-1410-298d-001e8c82bcad",
+          "DisplayValue": "System administrators"
+        },
+        {
+          "SchemaColumnUId": "d5cfaf4a-0900-4ef9-aee8-2ede7f9d97fb",
+          "Value": "feb9ebf8-f011-4313-bc85-0af165712814",
+          "DisplayValue": "Обучение"
+        }
+      ]
+    }
+  ]
+}

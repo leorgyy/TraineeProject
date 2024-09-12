@@ -1,0 +1,30 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c758f4ae-e373-42e3-97f5-f6015dacf954"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "feb9ebf8-f011-4313-bc85-0af165712814",
+          "DisplayValue": "Обучение"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "005063c9-8180-e011-afbc-00155d04320c",
+          "DisplayValue": "Контрагенты"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1724152312583+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 28
+        }
+      ]
+    }
+  ]
+}

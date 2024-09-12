@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "0e6d1095-095c-43c0-b190-d50791978712",
+    "Name": "NrbCarFolder",
+    "ModifiedOnUtc": "\/Date(1724241339000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Автомобили"
+  }
+}

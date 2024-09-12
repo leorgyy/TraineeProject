@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "eff38e80-d9b3-400f-b6bc-7552dac2bed7",
+    "Name": "NrbCarReplacedPart",
+    "ModifiedOnUtc": "\/Date(1724495736000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Заменённая деталь"
+  }
+}

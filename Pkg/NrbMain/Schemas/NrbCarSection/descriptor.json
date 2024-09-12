@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "c6a7fa9f-b1a8-4181-bf5d-998f10f310aa",
+    "Name": "NrbCarSection",
+    "ModifiedOnUtc": "\/Date(1725589565974)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Автомобиль\""
+  }
+}

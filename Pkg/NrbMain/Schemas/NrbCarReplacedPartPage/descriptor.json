@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "85047017-ac88-4382-bdf3-f9ed770ba033",
+    "Name": "NrbCarReplacedPartPage",
+    "ModifiedOnUtc": "\/Date(1724664474868)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Заменённая деталь"
+  }
+}

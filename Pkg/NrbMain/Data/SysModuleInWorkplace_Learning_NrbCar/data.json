@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "94d5af43-731e-4b9e-be1e-19fdbe201660"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "feb9ebf8-f011-4313-bc85-0af165712814",
+          "DisplayValue": "Обучение"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "8176b6d1-5846-4691-ba48-de0537f23e4c",
+          "DisplayValue": "Автомобиль"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 29
+        }
+      ]
+    }
+  ]
+}

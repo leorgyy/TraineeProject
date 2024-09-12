@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "cba92647-93c9-46d7-8d2b-ee31060bafb1",
+    "Name": "NrbCarPage",
+    "ModifiedOnUtc": "\/Date(1725588423748)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Страница редактирования: \"Автомобиль\""
+  }
+}

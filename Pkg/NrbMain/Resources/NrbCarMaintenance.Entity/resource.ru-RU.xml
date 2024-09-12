@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Прохождение ТО" />
+			<Item Name="Columns.NrbCar.Caption" Value="Автомобили" />
+			<Item Name="Columns.NrbMaintenanceConclusion.Caption" Value="Заключение" />
+			<Item Name="Columns.NrbMaintenanceDate.Caption" Value="Дата/Время ТО" />
+			<Item Name="Columns.NrbMaintenanceMaster.Caption" Value="Мастер ТО" />
+			<Item Name="Columns.NrbMaintenancePrice.Caption" Value="Стоимость ТО, USD" />
+			<Item Name="Columns.NrbName.Caption" Value="Название" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

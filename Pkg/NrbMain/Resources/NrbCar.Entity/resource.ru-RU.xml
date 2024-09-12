@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Автомобили" />
+			<Item Name="Columns.NrbAcceleration.Caption" Value="Разгон" />
+			<Item Name="Columns.NrbCarClass.Caption" Value="Класс автомобиля" />
+			<Item Name="Columns.NrbCarType.Caption" Value="Тип автомобиля" />
+			<Item Name="Columns.NrbEngineCapacity.Caption" Value="Объем двигателя" />
+			<Item Name="Columns.NrbExpenditure.Caption" Value="Расход" />
+			<Item Name="Columns.NrbMark.Caption" Value="Марка" />
+			<Item Name="Columns.NrbMarkCountry.Caption" Value="Страна марки" />
+			<Item Name="Columns.NrbName.Caption" Value="Название" />
+			<Item Name="Columns.NrbNotes.Caption" Value="Заметки" />
+			<Item Name="Columns.NrbOwner.Caption" Value="Владелец" />
+			<Item Name="Columns.NrbPower.Caption" Value="Мощность, л.с" />
+			<Item Name="Columns.NrbPrice.Caption" Value="Цена, USD" />
+			<Item Name="Columns.NrbPurchaseDate.Caption" Value="Дата покупки" />
+			<Item Name="EventsProcessSchema.Caption" Value="Бизнес-процесс" />
+		</Items>
+	</Group>
+</Resources>

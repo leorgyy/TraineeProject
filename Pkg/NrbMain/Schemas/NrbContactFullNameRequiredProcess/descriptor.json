@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "f99df08e-b633-4295-ac46-4ec7f07e4a39",
+    "Name": "NrbContactFullNameRequiredProcess",
+    "ModifiedOnUtc": "\/Date(1725458694000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Заполнение ФИО для Контакта"
+  }
+}

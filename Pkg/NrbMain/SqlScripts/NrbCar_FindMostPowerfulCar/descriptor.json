@@ -1,0 +1,10 @@
+﻿{
+  "SqlScript": {
+    "UId": "cc1161a6-7045-f701-6319-48cd93484bde",
+    "Name": "NrbCar_FindMostPowerfulCar",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1725588269000)\/",
+    "DependsOn": []
+  }
+}

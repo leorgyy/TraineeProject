@@ -1,0 +1,39 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+bin
+obj
+
+*.md
+
+*.png
+
+*.p7s
+
+*.config
+
+AssemblyInfo.cs
+
+#include nuget executable
+!NuGet.exe
+
+#nuget packages
+*.nupkg
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.Publish.xml
+*.pubxml
+
+Desktop.ini
+
+.vs
+
+*.**-**.*
+!*.en-US.*
+!*.ru-RU.*

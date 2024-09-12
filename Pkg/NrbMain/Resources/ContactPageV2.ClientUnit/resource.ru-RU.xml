@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.3d0e757a-6b77-4cbe-9ed0-1d588472a33a.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3QgeD0iMyIgeT0iMyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiByeD0iMyIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHBhdGggZD0iTTggNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTIgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8cGF0aCBkPSJNMTYgNFYyMCIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPgo8L3N2Zz4K" />
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
+			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiA4IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMiA4Ij48cGF0aCBkPSJtOS43IDNjLS40LTEuNy0xLjktMy0zLjctMy0xLjQgMC0yLjcuOC0zLjMgMi0xLjUuMi0yLjcgMS41LTIuNyAzIDAgMS43IDEuMyAzIDMgM2g2LjVjMS40IDAgMi41LTEuMSAyLjUtMi41IDAtMS4zLTEtMi40LTIuMy0yLjUiIGZpbGw9IiNmY2E3NTQiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNSA2LjVsLTEuNy0xLjcuNy0uOCAxIDEuMSAyLjYtMi42LjcuN3oiLz48L3N2Zz4=" />
+			<Item Name="Images.a3ad2cc6-6314-426f-ade2-c793b31a8986.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzEwNTNfMTY3ODMwKSI+CjxwYXRoIGQ9Ik0yMC43NDIgNy41MzI4OUMyMC45MTU1IDUuMTAzNzMgMTguODk2NCAzLjA4NDU2IDE2LjQ2NzIgMy4yNTgwN0wxMS44OTgyIDMuNTg0NDNDMTAuOTM4MyAzLjY1MyAxMC4wMzUyIDQuMDY1MzQgOS4zNTQ3NSA0Ljc0NTg0TDQuODA3MzkgOS4yOTMyQzMuMjQ1MjkgMTAuODU1MyAzLjI0NTI5IDEzLjM4OCA0LjgwNzM4IDE0Ljk1MDFMNS4wMjQ5NiAxNS4xNjc2TDYuOTI4NzEgMTcuMDcxNEw4LjgzMjQ1IDE4Ljk3NTFMOS4wNTAwMyAxOS4xOTI3QzEwLjYxMjEgMjAuNzU0OCAxMy4xNDQ4IDIwLjc1NDggMTQuNzA2OSAxOS4xOTI3TDE5LjI1NDIgMTQuNjQ1M0MxOS45MzQ3IDEzLjk2NDggMjAuMzQ3MSAxMy4wNjE4IDIwLjQxNTcgMTIuMTAxOUwyMC43NDIgNy41MzI4OVoiIHN0cm9rZT0iIzY3NzQ4RSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0xMy45OTk4IDkuOTk5OTdDMTQuNzgwOSAxMC43ODEgMTYuMDQ3MiAxMC43ODEgMTYuODI4MyA5Ljk5OTk2QzE3LjYwOTMgOS4yMTg5MiAxNy42MDkzIDcuOTUyNTkgMTYuODI4MyA3LjE3MTU0QzE2LjA0NzIgNi4zOTA0OSAxNC43ODA5IDYuMzkwNDkgMTMuOTk5OCA3LjE3MTU0QzEzLjIxODggNy45NTI1OSAxMy4yMTg4IDkuMjE4OTIgMTMuOTk5OCA5Ljk5OTk3WiIgc3Ryb2tlPSIjNjc3NDhFIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CjwvZz4KPGRlZnM+CjxjbGlwUGF0aCBpZD0iY2xpcDBfMTA1M18xNjc4MzAiPgo8cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IndoaXRlIi8+CjwvY2xpcFBhdGg+CjwvZGVmcz4KPC9zdmc+Cg==" />
+			<Item Name="LocalizableStrings.BlankSlateDescription.Value" Value="Ваш браузер не поддерживается.&#xA;Пожалуйста используйте Chrome, Safari или Firefox для работы с историей событий контакта" />
+			<Item Name="LocalizableStrings.ButtonLoadMoreCaption.Value" Value="Загрузить еще" />
+			<Item Name="LocalizableStrings.ChangeQueueItemDateButtonCaption.Value" Value="Запланировать на дату" />
+			<Item Name="LocalizableStrings.ColumnNameCostCaption.Value" Value="Стоимость" />
+			<Item Name="LocalizableStrings.ColumnNameDateTimeCaption.Value" Value="Время и дата" />
+			<Item Name="LocalizableStrings.ColumnNameEventTypeCaption.Value" Value="Тип события" />
+			<Item Name="LocalizableStrings.ColumnNameNameCaption.Value" Value="Название" />
+			<Item Name="LocalizableStrings.ColumnNameValueCaption.Value" Value="Содержание" />
+			<Item Name="LocalizableStrings.CommunicationChannelsTabCaption.Value" Value="Каналы коммуникации" />
+			<Item Name="LocalizableStrings.CompletenessHint.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Степень наполненности данными профиля. Нажмите на шкалу, чтобы посмотреть, каких данных не хватает в профиле." />
+			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Полнота профиля" />
+			<Item Name="LocalizableStrings.ConfirmedCaption.Value" Value="Подтвержден" />
+			<Item Name="LocalizableStrings.ContactPageGeneralDetailCaption.Value" Value="Общая информация" />
+			<Item Name="LocalizableStrings.ContactPageServiceTab.Value" Value="Обслуживание" />
+			<Item Name="LocalizableStrings.DeleteCommunicationDialogActionCaption.Value" Value="Удалить коммуникацию" />
+			<Item Name="LocalizableStrings.DeleteCommunicationDialogInputbox.Value" Value="Удаление" />
+			<Item Name="LocalizableStrings.DeleteCommunicationMessageSuccess.Value" Value="Коммуникация удалена" />
+			<Item Name="LocalizableStrings.DeleteCommunicationUrl.Value" Value="/0/odata/ContactCommunication({0})" />
+			<Item Name="LocalizableStrings.DeleteTextCaption.Value" Value="Id коммуникации" />
+			<Item Name="LocalizableStrings.DisplayCommunicationsActionCaption.Value" Value="Получить список коммуникаций" />
+			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Привлечение" />
+			<Item Name="LocalizableStrings.EnrichCloudCaption.Value" Value="Найдены данные" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Лента" />
+			<Item Name="LocalizableStrings.FieldValidationMessage.Value" Value="Поля:" />
+			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Обогатить данными из соц. сетей" />
+			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Заполненные веб-формы" />
+			<Item Name="LocalizableStrings.GetCommunicationsListUrl.Value" Value="/0/odata/ContactCommunication?$filter=contact/Id eq {0}&amp;&amp;$select=Number" />
+			<Item Name="LocalizableStrings.LabelLoadingCaption.Value" Value="Выполняется загрузка данных. Это может занять несколько секунд." />
+			<Item Name="LocalizableStrings.LabelNoDataCaption.Value" Value="Для этой записи нет данных о событиях сайта." />
+			<Item Name="LocalizableStrings.MultipleQueueItemsFoundError.Value" Value="Найдено более одного элементов очереди связанных с процессом. Идентификатор процесса: {0}" />
+			<Item Name="LocalizableStrings.PostponeQueueItemButtonCaption.Value" Value="Вернуть в очередь" />
+			<Item Name="LocalizableStrings.PostponeQueueItemError.Value" Value="Ошибка возвращения элемента в очередь. Сообщение об ошибке: {0}" />
+			<Item Name="LocalizableStrings.PropertyBrowserCaption.Value" Value="Браузер" />
+			<Item Name="LocalizableStrings.PropertyColorDepthCaption.Value" Value="Глубина цвета" />
+			<Item Name="LocalizableStrings.PropertyDisplayCaption.Value" Value="Монитор" />
+			<Item Name="LocalizableStrings.PropertyLanguageCaption.Value" Value="Язык" />
+			<Item Name="LocalizableStrings.PropertyLanguagesCaption.Value" Value="Языки" />
+			<Item Name="LocalizableStrings.PropertyPageUrlCaption.Value" Value="URL Страницы" />
+			<Item Name="LocalizableStrings.PropertyPixelDepthCaption.Value" Value="Глубина пикселя" />
+			<Item Name="LocalizableStrings.PropertyPlatformCaption.Value" Value="Платформа" />
+			<Item Name="LocalizableStrings.PropertyRefererCaption.Value" Value="URL Страницы источника" />
+			<Item Name="LocalizableStrings.PropertyScreenAvailCaption.Value" Value="Доступное пространство экрана" />
+			<Item Name="LocalizableStrings.QueueItemIsEmptyError.Value" Value="Страница не связана с элементом очереди единого окна. Действие отменено." />
+			<Item Name="LocalizableStrings.QueueItemPostponeFailedMessage.Value" Value="Ошибка при возвращении элемента в очередь" />
+			<Item Name="LocalizableStrings.QueueItemPostponeSucceedMessage.Value" Value="Элемент успешно возвращен в очередь" />
+			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Взаимосвязи" />
+			<Item Name="LocalizableStrings.ShowTrackingDataCaption.Value" Value="Показать данные трекинга" />
+			<Item Name="LocalizableStrings.StandardErrorCaption.Value" Value="Ошибка в заполнении колонки. См. настройки правил ввода." />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Подписаться на обновление ленты" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Вы подписаны на обновление ленты: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронология" />
+			<Item Name="LocalizableStrings.TouchDetailDetailCaptionOnPage.Value" Value="Сессии на сайте" />
+			<Item Name="LocalizableStrings.TrackingEventsTabCaption.Value" Value="События сайта" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Отписаться от обновлений ленты" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Вы отписаны от обновлений ленты: {0}" />
+			<Item Name="LocalizableStrings.URL.Value" Value="https://intern-gleontev.crm.norbit.ru" />
+			<Item Name="LocalizableStrings.ValidationMessage.Value" Value="заполнены с нарушением установленных условий валидации." />
+		</Items>
+	</Group>
+</Resources>

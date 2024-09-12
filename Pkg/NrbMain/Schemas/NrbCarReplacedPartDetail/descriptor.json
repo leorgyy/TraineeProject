@@ -1,0 +1,13 @@
+{
+  "Descriptor": {
+    "UId": "1ad240a0-8913-48b5-ae86-0881422a69ae",
+    "Name": "NrbCarReplacedPartDetail",
+    "ModifiedOnUtc": "\/Date(1724672751662)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Заменённые детали\""
+  }
+}
